@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Gestor de Desenvolvimento de Sistemas no Grupo Aerotur.<br>Principais tecnologias: Python, Django, Docker, Bootstrap<br>Pianista nas horas vagas e gamer nos fins de semana.
+Gestor de Desenvolvimento de Sistemas no Grupo Aerotur.<br>Principais tecnologias: Python e Django<br>Pianista nas horas vagas e gamer nos fins de semana.
 
 
 ## 🌐 LinkedIn:
