@@ -11,10 +11,7 @@ Gestor de Desenvolvimento de Sistemas no Grupo Aerotur.<br>Principais tecnologia
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=macelgomesfilho&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=macelgomesfilho&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
