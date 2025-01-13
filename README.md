@@ -11,7 +11,7 @@ Gestor de Desenvolvimento de Sistemas no Grupo Aerotur.<br>Principais tecnologia
 
 ![](https://github-readme-stats.vercel.app/api?username=macelgomesfilho&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Macel Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=macelgomesfilho)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=macelgomesfilho&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
